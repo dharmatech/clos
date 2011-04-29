@@ -11,7 +11,7 @@ Ikarus, and Ypsilon. Ironically, this more portable version doesn't
 appear to work with Mosh! :-) I.e. the test program doesn't complete
 successfully. Hints on that welcome!
 
-The only dependency is surfage.
+The only dependency is [surfage](https://github.com/dharmatech/surfage).
 
 # Setup
 
