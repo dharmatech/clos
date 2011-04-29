@@ -3,7 +3,7 @@
 
 Tiny CLOS for R6RS Scheme.
 
-Christian Sloma did the original conversion to R6RS. The Mosh Scheme
+Christian Sloma did the [original conversion](https://code.launchpad.net/~c-sloma/r6rs-clos/r6rs-clos-dev) to R6RS. The Mosh Scheme
 team packaged it for Mosh. I ran into some issues in getting Sloma's
 original version running. So I tweaked Mosh's version to work with
 other implementations. The basic test program [test.sps](https://github.com/dharmatech/clos/blob/master/test.sps) runs in Chez,
